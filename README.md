@@ -1,10 +1,8 @@
-<h1 align="left">Hello 👋 how are you?</h1>
+<h1 align="center">Hello  👋 how are you?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/naerelin/count.svg?"  />
-</div>
+<p align="left">My name is Naerelin, I am a C++ developer, I am from the Dominican Republic.</p>
 
 ###
 
@@ -12,7 +10,7 @@
 
 ###
 
-<p align="left">my name is narelin 😊<br>I'm from Dominican Republic 🗺️ <br>my age 22 😻<br><br>Favorite language c++ why? 🫨<br><br>C++ is popular because it is efficient, flexible, portable, has an extensive standard library, is compatible with C, and offers direct control over memory. This makes it ideal for a variety of software development applications.</p>
+<p align="left">🐈I like animals like cats<br> 🎮I like RPG video games and I love online chess ♟️<br>  🅰️I am a fan of anime and ice cream 🍨<br>☣️I like movies, mainly horror movies.</p>
 
 ###
 
@@ -28,12 +26,10 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="60" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
 </div>
 
 ###
