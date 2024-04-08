@@ -34,6 +34,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/naerelin/naerelin/output/snake.svg" alt="Snake animation" />
 
 ###
